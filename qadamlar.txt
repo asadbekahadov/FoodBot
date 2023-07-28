@@ -1,0 +1,6 @@
+--- Virtual muhit hosil qilish ---
+python -m venv venv
+
+--- Virtual muhitni aktivlashtirish ---
+venv\Scripts\Activate
+
